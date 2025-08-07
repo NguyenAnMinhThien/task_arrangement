@@ -1,0 +1,98 @@
+^phương pháp học$
+^kiến thức cuộc sống$
+^võ thuật$
+^thơ văn$
+^âm nhạc$
+^electronic$
+^mechanical$
+^electronic mechanical$
+^fpga$
+^renesas$
+^vendor device$
+^programming$
+^programing$
+^web dev$
+^web_dev$
+^web development$
+^nghệ thuật$
+^technology in life$
+^linux$
+^window$
+^du lịch và cuộc sống$
+^giải trí$
+^kung fu$
+^Technology in life$
+^mynote$
+^pycharm$
+^visual studio code$
+^web_app$
+^python$
+^projectt$
+^mem$
+
+^social life$
+^my note$
+^general$
+^cultural$
+^music$
+^martial art$
+^english$
+^practical$
+^tip$
+^username and pass$
+^project$
+^important$
+^todo$
+^schedule$
+^memory$
+^server$
+^poem$
+^entertainment$
+^cultural$
+^foreign language$
+^course$
+^market$
+^kienthucvanhoa$
+^stackoverflow$
+^stack overflow$
+^math$
+^adven$
+^fun$
+^history$
+^machine learning$
+^machine_learning$
+^c_digi$
+^c_data$
+^limit$
+^medicine$
+^drawing$
+^agriculture$
+^C#$
+^luxury$
+^bda$
+^temp$
+^budget$
+^future$
+^imply$
+^literature$
+^method$
+^cultural$
+^zprint$
+^technical$
+
+^course_.*$
+^budget_.*$
+^project_.*$
+^tool_.*$
+^method_.*$
+^subject_.*$
+^jump_.*$
+^zprint_.*$
+^math_.*$
+^poem_.*$
+^review_.*$
+^memory_.*$
+^todo_.*$
+^medicine_.*$
+^practical_.*$
+^technical_.$
